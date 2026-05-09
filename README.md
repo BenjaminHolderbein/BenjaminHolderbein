@@ -1,6 +1,8 @@
+# Benjamin Holderbein
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
-  <img src="header-light.svg" alt="Benjamin Holderbein — AI engineer">
+  <img src="header-light.svg" alt="Benjamin Holderbein — AI engineer building retrieval and LLM systems">
 </picture>
 
 AI engineer building retrieval and LLM systems that ship.
