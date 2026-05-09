@@ -15,7 +15,7 @@ Currently AI Engineer intern at Asurion · M.S. Data Science & AI at USF (June 2
 - [claude-orchestrate](https://github.com/BenjaminHolderbein/claude-orchestrate) — Claude Code skill for parallel sub-agent plan execution in git worktrees
 - [mcp-server-svg](https://github.com/BenjaminHolderbein/mcp-server-svg) — MCP server that lets Claude Code screenshot SVGs in-context
 - [cell-counting-unet](https://github.com/BenjaminHolderbein/cell-counting-unet) — U-Net for microscopy cell counting (1.4-cell mean error vs. 3-cell target)
-- [gha-job-scraper](https://github.com/BenjaminHolderbein/gha-job-scraper) — Scheduled GitHub Action scraping Bay Area ML/AI roles, notifies on matches
+- [Turbo Triage](https://github.com/NandakumarGunalan/ecommerce-ticket-assistant) — Fine-tuned DistilBERT support-ticket triage on GCP (Cloud Run + Cloud SQL). Live at [tickets.holderbein.dev](https://tickets.holderbein.dev)
 
 ### 03 — Elsewhere
 
