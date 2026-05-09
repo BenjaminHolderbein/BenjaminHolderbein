@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Benjamin Holderbein — AI engineer">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F1F7F3"/>
+      <stop offset="55%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" fill="url(#sky)"/>
+  <text x="64" y="118"
+        font-family="ui-serif, 'Iowan Old Style', 'Apple Garamond', Georgia, 'Times New Roman', serif"
+        font-style="italic" font-weight="500" font-size="68" fill="#0a0a0a"
+        letter-spacing="-1">Benjamin Holderbein</text>
+  <line x1="64" y1="142" x2="280" y2="142" stroke="#4F9D6E" stroke-width="2"/>
+  <text x="64" y="178"
+        font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="15" fill="#3a3a3a" letter-spacing="0.5">
+    AI engineer · retrieval &amp; LLM systems that ship
+  </text>
+  <text x="64" y="204"
+        font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="13" fill="#888888" letter-spacing="0.5">
+    San Francisco · M.S. Data Science &amp; AI @ USF · Available July 2026
+  </text>
+  <text x="64" y="232"
+        font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="13" fill="#4F9D6E" letter-spacing="0.5">holderbein.dev</text>
+</svg>
